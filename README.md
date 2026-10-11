@@ -9,7 +9,7 @@ Com uma interface amigável, é possível adicionar, listar, atualizar, buscar e
 * Aplica-se nele conceitos de lógica de programação, funções, manipulação de arquivos e tratamento de erros em uma situação do mundo real: acompanhar o andamento de projetos de fotografia.
 * O programa também tem um menu personalizada, com título em ASCII art e interface no terminal, para tornar a experiência de uso mais agradável.
 
-- <ins>Disciplina: Raciocínio Computacional</ins>
-- <ins>Curso: Análise e Desenvolvimento de Sistemas - PUCPR</ins>
+<ins>Disciplina: Raciocínio Computacional</ins>
+<ins>Curso: Análise e Desenvolvimento de Sistemas - PUCPR</ins>
 
  ---
