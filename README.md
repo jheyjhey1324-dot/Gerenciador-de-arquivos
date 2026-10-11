@@ -10,7 +10,7 @@ O Gerenciador de Arquivos foi desenvolvido como um projeto prático de aprendiza
 Aplica-se nele conceitos de lógica de programação, funções, manipulação de arquivos e tratamento de erros em uma situação do mundo real: acompanhar o andamento de projetos de fotografia.
 O programa também tem um menu personalizada, com título em ASCII art e interface no terminal, para tornar a experiência de uso mais agradável.
 
-- <u>Disciplina: Raciocínio Computacional<u/>
-- <u>Curso: Análise e Desenvolvimento de Sistemas - PUCPR</u>
+- <ins>Disciplina: Raciocínio Computacional</ins>
+- <ins>Curso: Análise e Desenvolvimento de Sistemas - PUCPR</ins>
 
  ---
