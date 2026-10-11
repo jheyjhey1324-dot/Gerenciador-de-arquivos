@@ -10,6 +10,7 @@ Com uma interface amigável, é possível adicionar, listar, atualizar, buscar e
 * O programa também tem um menu personalizada, com título em ASCII art e interface no terminal, para tornar a experiência de uso mais agradável.
 
 <ins>Disciplina: Raciocínio Computacional</ins>
+
 <ins>Curso: Análise e Desenvolvimento de Sistemas - PUCPR</ins>
 
  ---
